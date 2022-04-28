@@ -26,7 +26,7 @@ ul{
 li{
     list-style: none;
     padding:8px;
-    transition:0.11s;
+    transition:all 0.3s linear;
 }
 li:hover{
     background:rgba(255,255,255,0.2);
